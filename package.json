@@ -1,7 +1,7 @@
 {
-    "name": "WBug-Bot",
+    "name": "Butterfly-Bot",
     "version": "6.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "Butterfly 24/7",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
