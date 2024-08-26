@@ -1,5 +1,5 @@
 /*
-MR WASI TECH 
+Butterfly 
 */
 
 require('./settings')
@@ -27,7 +27,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "923192173398"
+let phoneNumber = "+6283148296743"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
