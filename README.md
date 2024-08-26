@@ -1,11 +1,11 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
     <img alt="wasi" height="300" src="https://telegra.ph/file/b8bda8d243f53c191a69b.jpg">
-    <h1 align="center">WASI-BUG-BOT</h1>
+    <h1 align="center">Butterfly-Bot</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/butterflyinghigh"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/butterflyinghigh"><img title="Author" src="https://img.shields.io/badge/Butterfly-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
  Butterfly BUG BOT
 ### Installation
